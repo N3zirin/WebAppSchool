@@ -28,4 +28,10 @@
     <PackageReference Include="WireMock.Net.Abstractions" Version="1.5.40" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Auth\" />
+    <Folder Include="Logs\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
